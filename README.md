@@ -26,14 +26,14 @@ pip install requests beautifulsoup4 selenium
 ## Install Firefox and Geckodriver (Required for Selenium):
 ### Linux:
 ```bash
-    sudo apt install firefox
-    wget https://github.com/mozilla/geckodriver/releases/latest/download/geckodriver-linux64.tar.gz
-    tar -xvzf geckodriver-linux64.tar.gz
-    sudo mv geckodriver /usr/local/bin/
+sudo apt install firefox
+wget https://github.com/mozilla/geckodriver/releases/latest/download/geckodriver-linux64.tar.gz
+tar -xvzf geckodriver-linux64.tar.gz
+sudo mv geckodriver /usr/local/bin/
 ```
 ### MacOS:
 ```bash
-    brew install geckodriver
+brew install geckodriver
 ```
 Windows:
 
