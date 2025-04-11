@@ -45,7 +45,7 @@ Windows:
 
 Run the scanner:
 
-python xss_scanner.py
+python xss_detector.py
 
 Enter the target URL when prompted.
 Example:
